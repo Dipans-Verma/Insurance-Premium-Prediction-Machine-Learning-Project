@@ -1,1 +1,1 @@
-# Insurance-Premium-Prediction-Machine-Learning-Project
+# insurance-premium-prediction
